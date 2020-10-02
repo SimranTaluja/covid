@@ -1,0 +1,22 @@
+.index{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  margin-right:40px;
+  margin-top:620px;
+  font-size:30px;
+}
+
+
+body{
+  background-image:url("bg.jpg");
+  background-size:1575px 600px;
+  background-repeat:no-repeat;
+}
+
+/*.gk{
+  background-image:url("bg2.jpg");
+  background-size:1575px 400px;
+  opacity: 0.6;
+  background-repeat:no-repeat;
+}*/
